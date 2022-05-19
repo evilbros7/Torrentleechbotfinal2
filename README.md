@@ -1,6 +1,6 @@
 ## Deploy on Heroku :-
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/evilbros7/Torrentleechbotfinal2)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/evilbros7/myprivatebot)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
 <br>
 
 ## "Item could not be created" error on Heroku and how to overcome it
